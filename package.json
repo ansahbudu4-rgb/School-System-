@@ -16,5 +16,8 @@
     "react-dom": "latest",
     "serve": "^14.2.0"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "@types/react": "latest",
+    "@types/react-dom": "latest"
+  }
 }
